@@ -12,14 +12,15 @@ namespace CodeChallengePreWork
 
             {
                 Console.Write("Please enter a number between 1 - 10: ");
-                string userResult = Console.ReadLine();
 
+                string userResult = Console.ReadLine();
                 int userNumber = Int32.Parse(userResult);
+
+
 
             }
 
-
-
+       
         }
     }
 }
